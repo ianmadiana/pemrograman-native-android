@@ -1,0 +1,32 @@
+<resources>
+<!--    Membuat data berupa string dengan label data adalah jabar1, jabar2, dan seterusnya-->
+    <string name="app_name">Jabar City List</string>
+    <string name="kab_bandung">Kabupaten Bandung</string>
+    <string name="kab_bandung_barat">Kabupaten Bandung Barat</string>
+    <string name="kab_bekasi">Kabupaten Bekasi</string>
+    <string name="kab_bogor">Kabupaten Bogor</string>
+    <string name="kab_ciamis">Kabupaten Ciamis</string>
+    <string name="kab_cianjur">Kabupaten Cianjur</string>
+    <string name="kab_cirebon">Kabupaten Cirebon</string>
+    <string name="kab_garut">Kabupaten Garut</string>
+    <string name="kab_indramayu">Kabupaten Indramayu</string>
+    <string name="kab_karawang">Kabupaten Karawang</string>
+    <string name="kab_kuningan">Kabupaten Kuningan</string>
+    <string name="kab_majalengka">Kabupaten Majalengka</string>
+    <string name="kab_pangandaran">Kabupaten Pangandaran</string>
+    <string name="kab_purwakarta">Kabupaten Purwakarta</string>
+    <string name="kab_subang">Kabupaten Subang</string>
+    <string name="kab_sukabumi">Kabupaten Sukabumi</string>
+    <string name="kab_sumedang">Kabupaten Sumedang</string>
+    <string name="kab_tasimalaya">Kabupaten Tasikmalaya</string>
+    <string name="kot_bandung">Kota Bandung</string>
+    <string name="kot_banjar">Kota Banjar</string>
+    <string name="kot_bekasi">Kota Bekasi</string>
+    <string name="kot_bogor">Kota Bogor</string>
+    <string name="kot_cimahi">Kota Cimahi</string>
+    <string name="kot_cirebon">Kota Cirebon</string>
+    <string name="kot_depok">Kota Depok</string>
+    <string name="kot_sukabumi">Kota Sukabumi</string>
+    <string name="kot_tasik">Kota Tasikmalaya</string>
+
+</resources>

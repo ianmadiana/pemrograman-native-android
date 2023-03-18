@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Film Nation: Film kekinian</string>
+    <string name="film1">Sing 2</string>
+    <string name="film2">The 355</string>
+    <string name="film3">Scream</string>
+    <string name="film4">Nightmare Alley</string>
+    <string name="film5">Morbius</string>
+    <string name="film6">Death on the Nile</string>
+    <string name="film7">Uncharted</string>
+    <string name="film8">The Batman</string>
+    <string name="film9">Turning Red</string>
+    <string name="film10">Downton Abbey A New Era</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

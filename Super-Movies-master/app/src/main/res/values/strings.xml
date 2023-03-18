@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Super Movies</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="desc">Deskripsi tentang movie</string>
+</resources>

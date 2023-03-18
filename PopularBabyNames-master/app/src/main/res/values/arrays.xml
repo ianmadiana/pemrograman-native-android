@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+<!--        A-->
+        <item>Ava</item>
+        <item>Amelia</item>
+        <item>Abigail</item>
+        <item>Alexander</item>
+        <item>Aiden</item>
+        <item>Anthony</item>
+<!--        B-->
+        <item>Baaron</item>
+        <item>Baltazar</item>
+        <item>Brian</item>
+        <item>Barbara</item>
+        <item>Bunga</item>
+        <item>Bailey</item>
+<!--        C-->
+        <item>Caden</item>
+        <item>Cadwell</item>
+        <item>Chandra</item>
+        <item>Cintya</item>
+        <item>Cinta</item>
+        <item>Chelsea</item>
+<!--        D-->
+        <item>Darrell</item>
+        <item>Dany</item>
+        <item>Dimas</item>
+        <item>Dea</item>
+        <item>Dita</item>
+        <item>Chelsea</item>
+        <item>Dahlia</item>
+<!--        E-->
+        <item>Emma</item>
+        <item>Evelyn </item>
+        <item>Emily</item>
+        <item>Elijah </item>
+        <item>Ethan </item>
+        <item>Ezra </item>
+<!--        F-->
+        <item>Fadil</item>
+        <item>Fitra</item>
+        <item>Fendy</item>
+        <item>Fany</item>
+        <item>Fitri</item>
+        <item>Febri</item>
+<!--        G-->
+        <item>Geovani</item>
+        <item>Giraldy</item>
+        <item>Gunawan</item>
+        <item>Ghea</item>
+        <item>Gina</item>
+        <item>Gracia</item>
+<!--        H-->
+        <item>Hayyin</item>
+        <item>Hety</item>
+        <item>Hera</item>
+        <item>Hilman</item>
+        <item>Herman</item>
+        <item>Heru</item>
+<!--        I-->
+        <item>Ian</item>
+        <item>Ina</item>
+        <item>Indah</item>
+        <item>Icha</item>
+        <item>Ira</item>
+        <item>Isa</item>
+<!--        J-->
+        <item>Jamal</item>
+        <item>Jafar</item>
+        <item>Jacob</item>
+        <item>Joana</item>
+        <item>Jamila</item>
+        <item>Jailey</item>
+<!--        K-->
+        <item>Kiky</item>
+        <item>Kane</item>
+        <item>Kaka</item>
+        <item>Kinan</item>
+        <item>Kalvin</item>
+        <item>Kira</item>
+<!--        L-->
+        <item>Linda</item>
+        <item>Leni</item>
+        <item>Lina</item>
+        <item>Lance</item>
+        <item>Landen</item>
+        <item>Ladislav</item>
+<!--        M-->
+        <item>Martin</item>
+        <item>Magnus</item>
+        <item>Max</item>
+        <item>Magdanlena</item>
+<!--        N-->
+        <item>Novi</item>
+        <item>Nana</item>
+        <item>Najib</item>
+        <item>Nina</item>
+<!--        O-->
+        <item>Odie</item>
+        <item>Odniell</item>
+        <item>Okta</item>
+        <item>Ocha</item>
+<!--        P-->
+        <item>Pablo</item>
+        <item>Parker</item>
+        <item>Padilla</item>
+        <item>Prilly</item>
+<!--        Q-->
+        <item>Qabil</item>
+        <item>Qasim</item>
+        <item>Quinly</item>
+<!--        R-->
+        <item>Robin</item>
+        <item>Rani</item>
+        <item>Reza</item>
+<!--        S-->
+        <item>Sophia </item>
+        <item>Scarlett </item>
+        <item>Stella </item>
+        <item>Sebastian </item>
+        <item>Samuel </item>
+        <item>Santiago </item>
+<!--        T-->
+        <item>Toni</item>
+        <item>Tia</item>
+        <item>Troy</item>
+        <item>Teddy</item>
+<!--        U-->
+        <item>Ulfah</item>
+        <item>Udin</item>
+        <item>Uus</item>
+<!--        V-->
+        <item>Via</item>
+        <item>Vina</item>
+        <item>Verrel</item>
+<!--        W-->
+        <item>Wendy</item>
+        <item>Wulan</item>
+        <item>Weni</item>
+        <item>Weilino</item>
+<!--        X-->
+        <item>Xavier</item>
+        <item>Xaverious</item>
+<!--        Y-->
+        <item>Yolanda</item>
+        <item>Yovie</item>
+<!--        Z-->
+        <item>Zidan</item>
+        <item>Zola</item>
+        <item>Zovie</item>
+    </string-array>
+</resources>

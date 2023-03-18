@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="320dp"
+    android:layout_centerVertical="false"
+    android:layout_margin="10dp"
+    android:paddingTop="10dp"
+    app:cardBackgroundColor="#e4d4bb"
+    app:cardElevation="16dp"
+    app:contentPadding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:background="#00FFFFFF"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="130dp"
+            android:layout_height="191dp"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/film1_sing2" />
+
+        <TextView
+            android:id="@+id/item_title"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed"
+            android:padding="3dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:typeface="normal"
+            tools:text="Lorem Ipsum" />
+
+        <Button
+            android:id="@+id/sinopsis"
+            android:layout_width="204dp"
+            android:layout_height="51dp"
+            android:layout_gravity="center"
+            android:capitalize="none"
+            android:inputType="textCapWords"
+            android:text="Sinopsis"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            app:backgroundTint="#7bada1"
+            app:cornerRadius="5dp" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

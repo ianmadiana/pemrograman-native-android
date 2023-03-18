@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Tampilan card view-->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="4dp"
+    card_view:cardBackgroundColor="#4FE91E63"
+    card_view:cardCornerRadius="6dp">
+
+<!--    layout relativ-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="8dp">
+
+<!--        imageview untuk menampilkan gambar film-->
+        <ImageView
+            android:id="@+id/img_item_photo"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginBottom="4dp"
+            android:scaleType="centerCrop"
+            tools:src="@tools:sample/avatars" />
+
+<!--        Textview background hitam transparan-->
+        <TextView
+            android:id="@+id/bg"
+            android:layout_width="387dp"
+            android:layout_height="115dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="80dp"
+            android:background="#87000000"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+<!--        deksripsi singkat dari film-->
+        <TextView
+            android:id="@+id/tv_item_description"
+            android:layout_width="318dp"
+            android:layout_height="36dp"
+
+            android:layout_below="@id/tv_item_name"
+            android:layout_marginStart="-317dp"
+            android:layout_marginLeft="-317dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="7dp"
+            android:layout_toEndOf="@id/img_item_photo"
+            android:layout_toRightOf="@id/img_item_photo"
+            android:ellipsize="end"
+            android:maxLines="5"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            tools:text="@string/desc" />
+
+<!--        Nama film-->
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="-317dp"
+            android:layout_marginLeft="-317dp"
+            android:layout_marginTop="98dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:layout_toEndOf="@id/img_item_photo"
+            android:layout_toRightOf="@id/img_item_photo"
+            android:text="Movies Name"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:text="@string/movies_name" />
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Ava</item>
+        <item>Amelia </item>
+        <item>acidic</item>
+        <item>Abigail </item>
+        <item>Beni</item>
+        <item>Brandon</item>
+        <item>Budi</item>
+        <item>Cinta</item>
+        <item>Cintia</item>
+        <item>Dani</item>
+        <item>Dedi</item>
+        <item>Evi</item>
+        <item>Edward</item>
+        <item>Fani</item>
+        <item>Fitri</item>
+        <item>Gian</item>
+        <item>Gabriel</item>
+        <item>Hety</item>
+        <item>Hilya</item>
+        <item>Ica</item>
+        <item>Ina</item>
+        <item>Jery</item>
+        <item>Kailyn</item>
+        <item>Linda</item>
+        <item>Mahfud</item>
+        <item>Nadim</item>
+        <item>Okta</item>
+        <item>Pablo</item>
+        <item>Qabil</item>
+        <item>Reza</item>
+        <item>satria</item>
+        <item>Tika</item>
+        <item>Udin</item>
+        <item>Vania</item>
+        <item>Winda</item>
+        <item>Xavier</item>
+        <item>Yolanda</item>
+        <item>Zakhi</item>
+    </string-array>
+</resources>
